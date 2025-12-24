@@ -18,6 +18,10 @@ The dataset includes advertising spend across multiple channels such as:
 - Affiliate Marketing
 - Influencer Marketing
 
+The dataset used in this project is large and cannot be uploaded directly to GitHub.
+You can access the dataset using the link below:
+[Click here to access the dataset]([https://drive.google.com/file/d/1eifPv2aFCRy__N_g0kwCc8rl06QBgBgs/view?usp=sharing]))
+
 ## Key Features
 - KPI Cards for Total Spend, Average Spend per Channel, and Total Product Sold
 - Clustered Column Chart showing spend distribution by channel
